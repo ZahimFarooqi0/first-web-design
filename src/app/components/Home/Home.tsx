@@ -12,8 +12,8 @@ export default function Home() {
                      <p className="whitespace-nowrap ">Creative Technologist</p>
                 </h1>
                 </div>    
-                <div className="top-[246px] rounded-full float-right mr-[-160px] mt-[-150px] shadow-xl shadow-gray-700">
-                <Image src="/hero.png" alt="Hero Image" width={299} height={299}  />
+                <div className="">
+                <Image src="/hero.png" alt="Hero Image" width={299} height={299}  className="top-[246px] rounded-full float-right mr-[-160px] mt-[-150px] shadow-xl shadow-gray-700"/>
                 </div>
             <div className="max-w-[670px] height-[66px] top-[402px] left-[231px] px-[83px]">
             
